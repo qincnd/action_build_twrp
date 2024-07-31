@@ -4,7 +4,7 @@
   "git_username": "Execution",
   "git_email": "qincnd@qq.com",
   "use_own_dt": true,
-  "dt_url": "https://github.com/pallavjparikh/device_lge_mh2lm_twrp",
+  "dt_url": "https://github.com/HowLinw/android_device_lge_mh2lm",
   "dt_branch": "main",
   "dt_remote": "github",
   "dt_path": "device/lge/mh2lm",
